@@ -1,4 +1,4 @@
-# House Price Prediction Kubernetes Project
+# House Price Prediction Devops Project
 
 ## Project Overview
 
