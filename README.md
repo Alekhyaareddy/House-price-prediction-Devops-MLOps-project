@@ -117,3 +117,4 @@ Webhook test
 
 
 Jenkins webhook integration test.
+Webhook automatic trigger test
