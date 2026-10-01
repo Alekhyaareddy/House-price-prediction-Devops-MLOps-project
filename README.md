@@ -11,7 +11,7 @@ The application includes:
 - Machine Learning model
 - Docker containers
 - Kubernetes deployments
-- Nginx reverse proxy
+- Nginx reverse proxyy
 
 ---
 
